@@ -7,8 +7,9 @@ Todo:
 3) Bold items
 4) Italics
 5) Read in file
-6) UI
+6) UI with HTML rendering
 7) Clean up file structure
 8) Handle code
+9) Handle links
 
 ![1_BpYZXSJh8c-feZEGIW6Rbw](https://github.com/user-attachments/assets/d1fdaeb6-da2f-41d0-8e72-f0199cd46cd0)
