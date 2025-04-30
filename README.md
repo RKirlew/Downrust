@@ -1,4 +1,4 @@
-"# Downrust" 
+# Downrust 
 A lightweight Markdown-to-HTML converter written in Rust. Converts basic Markdown syntax like headings (#, ##) and paragraphs into valid HTML.
 
 Todo:
