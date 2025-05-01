@@ -28,7 +28,7 @@ Whether you're fixing bugs, adding features, improving documentation, or suggest
 
 1. **Fork the repository** and clone it:
    ```bash
-   git clone https://github.com/RKirlew/downrust.git
+   git clone https://github.com/RKirlew/Downrust.git
    cd downrust
    ```
 
